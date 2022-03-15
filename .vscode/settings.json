@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+      "fastify",
+      "godgiven",
+      "middlewares",
+      "NEXIST"
+    ],
+    "eslint.packageManager": "yarn",
+    "npm.packageManager": "yarn",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+}
