@@ -1,2 +1,3 @@
-# typeMicroservice
-base of typescript microservice
+# Godgiven/microservice
+
+Base of typescript microservice
